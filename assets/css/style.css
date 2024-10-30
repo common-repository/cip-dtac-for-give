@@ -1,0 +1,9 @@
+body {
+  height: -webkit-max-content;
+  height: -moz-max-content;
+  height: max-content; }
+
+.dtac-form-field .control .select::after {
+  border: 0; }
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLDJCQUFtQjtFQUFuQix3QkFBbUI7RUFBbkIsbUJBQW1CLEVBQUU7O0FBRXZCO0VBQ0UsU0FBUyxFQUFFIiwiZmlsZSI6InN0eWxlLmNzcyIsInNvdXJjZXNDb250ZW50IjpbImJvZHkge1xuICBoZWlnaHQ6IG1heC1jb250ZW50OyB9XG5cbi5kdGFjLWZvcm0tZmllbGQgLmNvbnRyb2wgLnNlbGVjdDo6YWZ0ZXIge1xuICBib3JkZXI6IDA7IH1cbiJdfQ== */
